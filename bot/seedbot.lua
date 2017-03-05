@@ -240,6 +240,7 @@ function create_config( )
     "clean-delete",
     "del",
     "filter",
+    "expiretime",
     "help",
     "id",
     "info",
