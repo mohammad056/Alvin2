@@ -225,6 +225,7 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
+    "msg_checks",
     "addplugin",
     "antiemoji",
     "antien",
