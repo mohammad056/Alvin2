@@ -224,7 +224,34 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "addplugin",
+    "antiemoji",
+    "antien",
+    "antifosh",
+    "antifwd",
+    "antijoin",
+    "antimedia",
+    "antiop",
+    "antitag",
+    "antiuser",
+    "aparat",
+    "clean-delete",
+    "del",
+    "filter",
+    "help",
+    "id",
+    "info",
+    "linkpv",
+    "on-off",
+    "ping",
+    "plugin",
+    "rmsg",
+    "lock-rp",
+    "tr",
+    "supergroup",
+    "update",
+    "welcome"
     },
     sudo_users = {342382253,310240085,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
@@ -232,24 +259,6 @@ function create_config( )
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
-
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
-
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
 ]],
     help_text_realm = [[
 Realm Commands:
